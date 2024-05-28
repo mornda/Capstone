@@ -14,5 +14,6 @@ CSRF
 
 개발 환경:
 IDE: 인텔리제이( IntelliJ)
+프레임워크: 스프링 부트(Spring Boot)
 프로그래밍 언어: 자바(Java), HTML, JavaScript
 

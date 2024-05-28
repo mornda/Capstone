@@ -12,5 +12,7 @@ SQL injection,
 파일 업로드 & 다운로드 검사,
 CSRF
 
-
+개발 환경:
+IDE: 인텔리제이( IntelliJ)
+프로그래밍 언어: 자바(Java), HTML, JavaScript
 

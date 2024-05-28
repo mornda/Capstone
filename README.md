@@ -1,4 +1,4 @@
-![image](https://github.com/mornda/Capstone/assets/169816673/ecb94cb9-657f-4256-88db-6456a71ca40b)# 통합 웹 보안 라이브러리 (Web Security Library)
+# 통합 웹 보안 라이브러리 (Web Security Library)
 
 통합 웹 보안 라이브러리는 웹 애플리케이션 보안을 강화하기 위한 종합적인 솔루션입니다. 이 라이브러리는 웹 보안을 다루며, 웹 애플리케이션의 취약점을 방어하기 위한 기능을 제공합니다.
 

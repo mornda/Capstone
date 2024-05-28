@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSRF Form</title>
+</head>
+<body>
+    <!-- CSRF 토큰을 생성하기 위해 서블릿 호출 -->
+    <button id="generateTokenBtn">Generate CSRF Token</button>
+    <div id="csrfToken"></div>
+    
+    <!-- 폼에 토큰을 포함하여 제출 -->
+    <form id="csrfForm" action="Process" method="post">
+        <input type="hidden" name="csrf_token" id="csrf_token" value="">
+        <input type="text" name="data" value="Your data">
+        <button type="submit">Submit</button>
+    </form>
+
+    <script src="csrf_script.js"></script>
+</body>
+</html>
